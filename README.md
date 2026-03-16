@@ -1,7 +1,7 @@
 #  Cancer Severity Level Prediction
 
 ## Overview
-This project applies various Machine Learning classification algorithms to predict the severity level of cancer in patients based on a range of medical and demographic features. The goal is to accurately classify the cancer level as **Low, Medium, or High** to assist in early detection and risk stratification.
+Applyings various Machine Learning classification algorithms to predict the severity level of cancer in patients based on a range of medical and demographic features. The goal is to accurately classify the cancer level as **Low, Medium, or High** to assist in early detection and risk stratification.
 
 ## 📊 Dataset
 * **Source:** [Cancer Patients Data (Kaggle)](https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data/data)
