@@ -44,7 +44,7 @@ The models were evaluated using Stratified 5-Fold CV to ensure robustness across
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/naham6/cancer-level-prediction.git](https://github.com/naham6/cancer-level-prediction.git)
+   git clone https://github.com/naham6/cancer-level-prediction.git
 2. Navigate to the Project Folder:
    ```bash
    cd cancer-level-prediction
